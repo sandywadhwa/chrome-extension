@@ -4,12 +4,12 @@
     "version":"1.0",
     "description": "Being Zero Productivity Tools",
     "icons": {
-        "128": "bzlogo-128.png",
-        "48": "bzlogo-48.png",
-        "16": "bzlogo-16.png"
+        "128": "/img/bzlogo-128.png",
+        "48": "/img/bzlogo-48.png",
+        "16": "/img/bzlogo-16.png"
     },
     "browser_action":{
-        "default_icon": "bzlogo-16.png",
+        "default_icon": "/img/bzlogo-16.png",
         "default_popup" : "popup.html"
     }
 }
