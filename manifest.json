@@ -1,0 +1,14 @@
+{
+    "manifest_version":3,
+    "name":"Being Zero Extension",
+    "description": "Being Zero Productivity Tools",
+    "icons": {
+        "128": "bzlogo-128.png",
+        "48": "bzlogo-48.png",
+        "16": "bzlogo-16.png"
+    },
+    "browswer_action":{
+        "default_icon": "bzlogo-16.png",
+        "default_popup" : "popup.html"
+    }
+}
